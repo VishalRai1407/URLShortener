@@ -39,7 +39,6 @@ body{
 }
 .title{
   background: linear-gradient(to left, #920000, #920000);
-  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-family: 'Roboto', sans-serif;
   margin-top: 100px;
